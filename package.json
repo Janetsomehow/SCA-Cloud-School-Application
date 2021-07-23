@@ -1,0 +1,23 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "Welcome to SCA Cloud School Application",
+  "main": "index.js",
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SCA Cloud School Application"
+  },
+  "keywords": [
+    "SCA"
+  ],
+  "author": "",
+  "license": "ISC"
+}
