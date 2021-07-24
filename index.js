@@ -4,7 +4,7 @@ var app = express()
 
 //Define request response in root URL (/)
 app.get('/', function (req, res) {
-  res.send('Welcome to SCA Cloud School Application!')
+  res.send('Welcome to SCA Cloud School Application, this is my first assessment!')
 })
 
 //Launch listening server on port 8080
